@@ -1,0 +1,6 @@
+setup.py
+blockworld/envs.py
+blockworld.egg-info/PKG-INFO
+blockworld.egg-info/SOURCES.txt
+blockworld.egg-info/dependency_links.txt
+blockworld.egg-info/top_level.txt
